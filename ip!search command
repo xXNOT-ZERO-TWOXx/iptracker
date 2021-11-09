@@ -1,0 +1,14 @@
+Trigger: ip!search
+
+Code:
+$nomention
+$title[IP Search Results]
+$addField[IP's Found;10065279872]
+$addField[IP's Leaked;3]
+$addField[IP Search Time;$randomText[10ms;32ms;61ms;12ms;89ms;62ms;132ms]]
+$addField[IP's Grabbed;64.114.239.180, 70.77.98.166, 173.180.192.177]
+$footer[To view what ip's where grabbed please type `ip!grabbed `]
+$color[ff0000]
+$addReactions[✅]
+$deletecommand
+$cooldown[10s;Please wait 10 seconds before executing this command again. ]
