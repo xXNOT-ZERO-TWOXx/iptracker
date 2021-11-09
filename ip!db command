@@ -1,0 +1,9 @@
+trigger: ip!db
+
+Code:
+$nomention
+Please specify an IP to check.
+ip!<your_ip_address>
+
+Example: 
+ip!111.1.1.111
